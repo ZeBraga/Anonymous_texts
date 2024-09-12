@@ -1,8 +1,9 @@
 function Home() {
   return (
     <h1>
-      This is the beginning of a big project to create an environment to anyone
-      write and post their texts!
+      Essa página está em construção e será dedicada a uma comunidade onde
+      qualquer pessoas pode publicar os seus textos e receber comentários e
+      críticas sobre ele com recursos de experiência e moedas.
     </h1>
   );
 }
